@@ -23,7 +23,6 @@ Select the Sharefile region for your instance
  	eu - europe
   
 	us - united states 
-  
 
   .PARAMETER Subdomain
   
@@ -42,8 +41,6 @@ Set the script mode:
     info - Make no changes, just output disabled users
     
     commit - Downgrade all disabled user accounts to client accounts 
-    
-
 
     .EXAMPLE
     
